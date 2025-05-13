@@ -42,6 +42,10 @@
 - Accuracy, Precision, Recall, F1-score, ROC Curve, Confusion Matrix  
 - Cross-validation, Grid Search
 
+#### 🧠 Algorithm Practice (with Python)
+- 학교 알고리즘 수업을 통해 Python 기반 문제 풀이 경험
+- 실버 2~3 수준의 문제를 교재 기반으로 변형해 구현해본 경험 있음
+- 자료구조, 탐색, 구현 문제 중심으로 연습하여 로직 분석과 코드 구현 능력을 길렀습니다
 ---
 
 ### 🚀 주요 프로젝트
