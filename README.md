@@ -29,6 +29,18 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
+#### 🤖 Machine Learning & Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=flat)
+
+#### 📊 Statistics & Evaluation
+- Accuracy, Precision, Recall, F1-score, ROC Curve, Confusion Matrix  
+- Cross-validation, Grid Search
 
 ---
 
