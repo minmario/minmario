@@ -56,7 +56,7 @@
 |------------|------|-----------|
 | [SIST Chill Hotel](https://github.com/minmario/SIST-Chill-Hotel) | 호텔 예약, 포인트 등급 시스템 포함 통합 플랫폼 | `Spring Boot`, `MySQL`, `JWT`, `EC2`, `Docker` |
 | [Admin Dashboard](https://github.com/minmario/SIST-Chill-Hotel) | 관리자용 회원/스태프/예약 관리 페이지 | `Spring Security`, `REST API`, `Pagination`, `Role 기반 인증` |
-| [ML Visualizer](https://github.com/minmario/ml-visualizer) | 머신러닝 모델 성능 시각화 도구 | `Python`, `Matplotlib`, `Flask (예정)` |
+| [ML Visualizer](https://github.com/minmario/ml-visualizer) | 머신러닝 모델 성능 시각화 도구 | `Python`, `Matplotlib`, `Grid-Search`|
 
 ---
 
