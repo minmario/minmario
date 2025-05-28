@@ -1,7 +1,6 @@
-<h1 align="center">👋 안녕하세요, 백엔드 개발자 MinMario입니다!</h1>
+<h1 align="center">minmario입니다</h1>
 <p align="center">
-🌱 Spring Boot 기반의 백엔드 개발자로, <br>
-클린 아키텍처와 API 설계, 인프라 운영까지 주도적으로 경험하고 있습니다.
+  Spring Boot 기반의 백엔드 개발자를 희망합니다
 </p>
 
 ---
