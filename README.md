@@ -69,8 +69,10 @@
 
 ### 📫 Contact
 
-- 📧 Email: [your.email@gmail.com](mailto:your.email@gmail.com)
-- 📘 Blog: [Notion 포트폴리오](https://your-notion-link)
+- Email: [minmario@naver.com](mailto:minmario@naver.com)
+- Blog: [기술 블로그](https://velog.io/@minmario/)
+- portfolio: [포트폴리오](https://v0--ten-fawn-93.vercel.app/)
+- notion: [notion](https://www.notion.so/Git-1e754069ed0180bfb593da15e41f7900)
 
 ---
 
