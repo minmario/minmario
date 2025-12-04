@@ -1,6 +1,6 @@
-<h1 align="center">minmario입니다</h1>
+<h1 align="center">minmario</h1>
 <p align="center">
-  Spring Boot 기반의 백엔드 개발자를 희망합니다
+  Spring 백엔드 개발자
 </p>
 
 ---
